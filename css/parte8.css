@@ -1,0 +1,47 @@
+    .parte8{
+        background-image: url(../assets/img/fundo_escuro.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .parte8 .textos{
+        color: white;
+        padding: 40px 0px 40px 40px;
+    }
+
+    .parte8 .textos ul{
+        padding-left: 16px;
+    }
+
+    .parte8 .textos li{
+        color: white;
+        font-size: 16px;
+        
+    }
+
+    .parte8 .textos a{
+        text-decoration: none;
+        color: white;
+    }
+    
+
+    .parte8 .textos h2{
+        padding: 20px 0;
+        font-size: 26px;
+        color: #ff7200;
+    }
+
+    .parte8 .textos ul li:nth-child(1){
+        list-style-image: url(../assets/img/icone_whats.png);
+    }
+    .parte8 .textos ul li:nth-child(2){
+        list-style-image: url(../assets/img/icone_email.png);
+    }
+    .parte8 .textos ul li:nth-child(3){
+        list-style-image: url(../assets/img/icone_insta.png);
+    }
+    .parte8 .textos ul li:nth-child(4){
+        list-style-image: url(../assets/img/icone_face.png);
+    }
+    

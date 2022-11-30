@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+* {
+  font-family: "Quicksand", sans-serif;
+}
+
+@media screen and (min-width: 800px) {
+  main {
+    position: absolute;
+    background: scroll;
+    /* background-color: black; */
+    /* background-image: url(../assets/img/background.jpg) fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center; */
+    width: 50%;
+    left: 25%;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  }
+
+}
+
+@media screen and (min-width: 480px) and (max-width: 800px) {
+  main {
+    position: absolute;
+    background: scroll;
+    /* background-color: black; */
+    /* background-image: url(../assets/img/background.jpg) fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center; */
+    width: 80%;
+    left: 10%;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  }
+}

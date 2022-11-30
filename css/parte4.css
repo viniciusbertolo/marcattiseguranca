@@ -1,0 +1,29 @@
+    .parte4{
+        background-image: url(../assets/img/fundo_escuro.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .parte4 .textos{
+        color: white;
+        padding: 40px 0px 100px 40px;
+    }
+
+    
+
+    .parte4 .textos h2{
+        padding: 20px 0;
+        font-size: 26px;
+        color: #ff7200;
+    }
+
+    .parte4 .textos p{
+        font-size: 18px;
+    }
+
+    .parte4 .imagem_seguranca_parte4 img{
+        width: 100%;
+    }
+
+    

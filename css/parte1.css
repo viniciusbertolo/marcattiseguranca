@@ -1,0 +1,41 @@
+    .parte1{
+        background-image: url(../assets/img/fundo_claro.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .parte1 .logomarca_div{
+        position: relative;
+        top: 30px;
+        width:70%;
+        margin-left: 15%;
+
+        background-image: url(../assets/img/fundo_escuro.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .parte1 .logomarca{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    .parte1 h1{
+        margin-top: 50px;
+        padding-bottom: 150px;
+        padding-top: 50px;
+        text-align: center;
+        color: white;
+        font-size: 43px;
+    }
+
+    .parte1 h1 span{
+        color: #ff7200;
+        font-size: 65px;
+    }
+
+    .parte1 .img_estrelas{
+        width: 100%;
+    }

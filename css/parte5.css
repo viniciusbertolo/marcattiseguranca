@@ -1,0 +1,23 @@
+    .parte5{
+        background-image: url(../assets/img/fundo_claro.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .parte5 .textos{
+        color: white;
+        padding: 40px 0px 100px 40px;
+    }
+
+    .parte5 .textos p{
+        font-size: 18px;
+    }
+
+    .parte5 .textos h2{
+        padding: 20px 0;
+        font-size: 26px;
+        color: #ff7200;
+    }
+
+    
